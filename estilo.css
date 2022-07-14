@@ -1,0 +1,19 @@
+body /*color detras de la pagina*/
+{
+    background-color: #eeddd2;
+}
+
+h1 /*color detras de la pagina*/
+{
+    color: rgb(255, 255, 255);/*color de letra*/
+    font-size: 1.8rem;/*tamaño de la fuente*/
+    text-align: center;/*central el texto*/
+    text-shadow: 3px 5px 5px grey; /*efecto difuminado*/
+    
+}
+
+.inicioSesion
+{
+    text-align: center;/*central el texto*/
+    
+}
